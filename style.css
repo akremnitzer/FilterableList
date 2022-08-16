@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+body {
+    font-family: 'Space Mono', monospace;
+    background-color: rgb(245, 236, 220);
+    color: rgb(85, 78, 65);
+}
+
+h5 {
+    color:  rgb(129, 125, 117);
+}
+
+a {
+    color: rgb(129, 125, 117);
+}
